@@ -1,2 +1,2 @@
 #!/bin/env bash
-puppet-library --module-dir . --daemonize
+puppet-library --module-dir . --daemonize --port 9292
